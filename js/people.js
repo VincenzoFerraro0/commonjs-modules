@@ -19,7 +19,7 @@ function createPerson() {
         fullName,
         hobbies
     };
-}clearInterval
+}
 
 console.log(createPerson());
 
